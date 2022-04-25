@@ -37,3 +37,35 @@ This is where all the content that will be displayed to users will go - the text
 The Charset Meta Element
 We should always have the meta tag for the charset encoding of the webpage in the head element: <meta charset="utf-8">.
 Setting the encoding is very important because it ensures that the webpage will display special symbols and characters from different languages correctly in the browser.
+
+
+How to create paragraphs p tag
+
+How to create headings => h1,h2,h3----
+
+How to create bold text=> <strong>
+
+How to create italicized text => <em> The em element makes text italic. It also semantically places emphasis on the text, which again affects things like screen readers. To define an emphasised element we wrap text content in a <em> tag.
+
+
+The relationships between nested elements
+
+we indent any elements that are within other elements. This is known as nesting elements.
+
+When we nest elements within other elements, we create a parent and child relationship between them. The nested elements are the children and the element they are nested within is the parent.
+
+How to create HTML comments
+we just put <!-- and --> 
+
+What HTML tag is used to create an unordered list?
+Unordered lists are created using the <ul> element, and each item within the list is created using the list item element <li>.
+
+What HTML tag is used to create an ordered list?
+Ordered lists are created using the <ol> element. Each individual item in them is again created using the list item element <li>. However, each list item in an ordered list begins with a number instead:
+
+
+What HTML tag is used to create list items within both unordered and ordered lists?
+
+https://learn.shayhowe.com/html-css/
+https://learn.shayhowe.com/html-css/creating-lists/
+
