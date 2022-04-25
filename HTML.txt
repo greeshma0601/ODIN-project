@@ -24,3 +24,7 @@ The <head> element is where we put important meta-information about our webpages
 
 What is the purpose of the body element?
 This is where all the content that will be displayed to users will go - the text, images, lists, links, and so on.
+
+The Charset Meta Element
+We should always have the meta tag for the charset encoding of the webpage in the head element: <meta charset="utf-8">.
+Setting the encoding is very important because it ensures that the webpage will display special symbols and characters from different languages correctly in the browser.
