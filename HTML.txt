@@ -11,4 +11,10 @@ What are the three parts of an HTML element?
  containers for content
  Opening and closing tag
  
- 
+ What is the purpose of the doctype declaration?
+ The doctype’s purpose is to tell the browser what version of HTML it should use to render the document. The latest version of HTML is HTML5, and the doctype for that version is simply <!DOCTYPE html>.
+What is the HTML element?
+
+What is the purpose of the head element?
+
+What is the purpose of the body element?
