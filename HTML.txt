@@ -69,3 +69,45 @@ What HTML tag is used to create list items within both unordered and ordered lis
 https://learn.shayhowe.com/html-css/
 https://learn.shayhowe.com/html-css/creating-lists/
 
+
+Absolute Links
+Links to pages on other websites on the internet are called absolute links. A typical absolute link will be made up of the following parts: protocol://domain/path. An absolute link will always contain the protocol and domain of the destination.
+
+Relative Links
+Links to other pages within our own website are called relative links. Relative links do not include the domain name, since it is another page on the same site, it assumes the domain name will be the same as the page we created the link on.
+
+eg:
+<body>
+  <h1>Homepage</h1>
+	<a href="https://www.theodinproject.com/about">click me</a> => Absolute Links
+	<a href="about.html">About</a> => Relative Links
+</body>
+
+What element is used to create a link? <a href ="link"></a>
+
+What is an attribute?
+An HTML attribute gives additional information to an HTML element and always goes in the element’s opening tag. An attribute is made up of two parts, a name, and a value. In our case, we need to add a href (hyperlink reference) attribute to the opening anchor tag. The value of the href attribute is the destination we want our link to go to.
+
+What attribute tells links where to go to?href
+
+What is the difference between an absolute and relative link?
+Absolute Links
+Links to pages on other websites on the internet 
+
+Relative Links
+Links to other pages within our own website
+
+Which element is used to display an image?
+<img src= "" alt="">
+
+src => image path 
+alt => display name of image
+alternative text
+The alt attribute is used to describe an image. It will be used in place of the image if it cannot be loaded. It is also used with screen readers to describe what the image is to visually impaired users.
+
+What two attributes do images always need to have? src and alt 
+
+How do you access a parent directory in a filepath?   ../
+
+What are the four main image formats that you can use for images on the web?
+jpg,gif,png,svg
